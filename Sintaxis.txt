@@ -1,0 +1,33 @@
+<?php
+	echo ´!Hola mundo con PHP!´;
+?>
+
+<?php
+	echo ´!Hola mundo con PHP!;
+	$x = 2;
+	$y = 6;
+?>
+
+<?php
+	$mi_variable = "Hola mundo";
+	const MI_CONSTANTE = 3.1416;
+
+	función mi_funcion(){
+	}
+	class Vehiculo{
+	}
+?>php
+
+consideraciones
+-Las Minusculas y Mayusculas se enienden diferente 
+
+Operadores 
++ suma
+- resta
+* multiplicacion
+/ division
+% moduelo  
+** Exponenciacion 
+
+Resultado  = Operador 1 + Operador 2
+							Variable 	Variable
